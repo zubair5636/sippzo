@@ -1,0 +1,6 @@
+{
+  "name": "SIPPZO - E-Commerce CRM & Admin Panel",
+  "description": "Production-ready E-Commerce CRM and Admin Panel for SIPPZO self-heating food and beverage brand, featuring catalog management, orders, inventory, CRM leads, content, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
